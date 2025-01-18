@@ -11,6 +11,7 @@ Hi all my name is mehran and im from iran. im currently studying computer engine
 ![](https://github-readme-stats.vercel.app/api?username=mehranditor&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehranditor&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehranditor&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![snake gif](https://github.com/mehranditor/mehranditor/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehranditor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
