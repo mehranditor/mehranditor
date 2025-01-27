@@ -15,7 +15,7 @@ Hi all my name is Amirali but you can call me mehran and im from iran. im curren
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehranditor&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehranditor&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![snake gif](https://github.com/mehranditor/mehranditor/blob/output/github-snake-dark.svg)
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=mehranditor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
