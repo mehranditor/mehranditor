@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/mehranditor/mehranditor/blob/main/MEHRANDITOR%20(1).png)
    
-# 💫 About Me:
+# 💫 About Me: 
 Hi all my name is Amirali but you can call me mehran and im from iran. im currently studying computer engineering . my main goal is become proffessional<br>in front end and maybe the fullstack at the end. that is because i have confident that i can be a front end devoloper<br>with full of ideas🎉
 
 
