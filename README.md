@@ -18,7 +18,7 @@ Hi all my name is Amirali but you can call me mehran and im from iran. im curren
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=mehranditor&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
