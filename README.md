@@ -4,7 +4,7 @@
 # 💫 About Me:  
 Hi all my name is Amirali but you can call me mehran and im from iran. im currently studying computer engineering . my main goal is become proffessional<br>in front end and maybe the fullstack at the end. that is because i have confident that i can be a front end devoloper<br>with full of ideas🎉 
 
-   
+      
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehranvi20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirali-daneshvar-20560a217)  
 
