@@ -1,5 +1,15 @@
+<h1 align="center"> Hi, I'm Mehran😊</h1>
 
-![logo](1785151255089.jpg)  
+<p align="center">
+  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d9ff&center=true&width=520&lines=Junior+Developer;Gamer;Tech+Lover;Software+Developer;Fast+Learner" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="1785151255089.jpg" alt="logo">
+</p>
+
+
     
 # 💫 About Me:
 👨‍💻 Computer Engineering graduate passionate about software development, AI, and creative technology. Experienced with ASP.NET Core, Java, Python, SQL, REST APIs, automation, and AI/LLM-powered applications. I enjoy turning ideas into practical projects, learning new technologies, and solving problems creatively. 🎻 Violinist | 🌍 English • Turkish • Persian<br>
