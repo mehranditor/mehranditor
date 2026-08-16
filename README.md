@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="1785151255089.jpg" alt="logo" width="1000">
+  <img src="ChatGPT Image Aug 16, 2026, 10_55_06 PM.png" alt="logo" width="1000">
 </p>
 
 
