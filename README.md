@@ -15,7 +15,6 @@
 👨‍💻 Computer Engineering graduate passionate about software development, AI, and creative technology. Experienced with ASP.NET Core, Java, Python, SQL, REST APIs, automation, and AI/LLM-powered applications. I enjoy turning ideas into practical projects, learning new technologies, and solving problems creatively. 🎻 Violinist | 🌍 English • Turkish • Persian<br>
 
 
-
 ## 🌍 Languages
 
 🇬🇧 **English** — Professional  
@@ -120,6 +119,12 @@ ASP.NET Core Web API integrating an LLM-powered chatbot with JWT authentication,
 ![](https://github-readme-stats.shion.dev/api?username=mehranditor&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mehranditor&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehranditor&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehranditor&theme=dark&hide_border=true" width="100%">
+</p>
 
 
 
