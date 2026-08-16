@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="1785151255089.jpg" alt="logo">
+  <img src="1785151255089.jpg" alt="logo" width="1000">
 </p>
 
 
