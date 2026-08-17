@@ -11,8 +11,8 @@
 
 
     
-# 💫 About Me:
-👨‍💻 Computer Engineering graduate passionate about software development, AI, and creative technology. Experienced with ASP.NET Core, Java, Python, SQL, REST APIs, automation, and AI/LLM-powered applications. I enjoy turning ideas into practical projects, learning new technologies, and solving problems creatively. 🎻 Violinist | 🌍 English • Turkish • Persian<br>
+#  About Me:
+👨‍💻 Computer Engineering graduate passionate about software development, AI, and creative technology. Experienced with ASP.NET Core, Java, Python, SQL, REST APIs, automation, and AI/LLM-powered applications. I enjoy turning ideas into practical projects, learning new technologies, and solving problems creatively. <br>
 
 
 ## 🌍 Languages
@@ -22,28 +22,28 @@
 🇮🇷 **Persian** — Native
 
 
-## 🧩 What I Do
+##  What I Do
 
-- 💻 **Software Development** — Building practical applications and turning ideas into working solutions.
-- 🤖 **AI & Machine Learning** — Exploring AI, machine learning, NLP, and intelligent applications.
-- 🌐 **Web & Application Development** — Developing web, backend, and cross-platform applications.
-- 🧠 **Problem Solving** — Breaking down complex problems and finding creative, practical solutions.
-- 🔬 **Research & Experimentation** — Exploring new technologies, experimenting with ideas, and continuously learning.
-- 🚀 **Project Development** — Taking projects from an idea to implementation while learning along the way.
+-  **Software Development** — Building practical applications and turning ideas into working solutions.
+-  **AI & Machine Learning** — Exploring AI, machine learning, NLP, and intelligent applications.
+-  **Web & Application Development** — Developing web, backend, and cross-platform applications.
+-  **Problem Solving** — Breaking down complex problems and finding creative, practical solutions.
+-  **Research & Experimentation** — Exploring new technologies, experimenting with ideas, and continuously learning.
+-  **Project Development** — Taking projects from an idea to implementation while learning along the way.
 
 
 
-## 🎯 Beyond Code
+##  Beyond Code
 
 🎻 Violinist · 🎮 Gamer · 🥋 Martial Arts · 💡 Technology Enthusiast
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirali-daneshvar-20560a217/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/mehranditor02?igsh=MWxocnl6emU2dHlkeQ==))
 # 💻 Tech Stack
 
-### 👨‍💻 Programming & Frameworks
+###  Programming & Frameworks
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -55,18 +55,18 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
-### 🌐 Backend & APIs
+###  Backend & APIs
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🛠️ Development & Tools
+###  Development & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white)
@@ -76,16 +76,16 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-### ☁️ Development Platforms
+###  Development Platforms
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 
-# 🤖 AI & Machine Learning
+#  AI & Machine Learning
 
 I'm particularly interested in **Natural Language Processing, Transformer Models, Generative AI, and AI-powered software applications**.
 
-### 🧠 Machine Learning & NLP
+###  Machine Learning & NLP
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
@@ -95,20 +95,20 @@ I'm particularly interested in **Natural Language Processing, Transformer Models
 **Areas:**  
 `Supervised Learning` · `Classification` · `Data Preprocessing` · `Model Evaluation` · `NLP` · `Transformer Models` · `BERT / BERTurk`
 
-### ✨ Generative AI & LLMs
+###  Generative AI & LLMs
 `LLM Integration` · `Prompt Engineering` · `AI-Assisted Software Development` · `Chatbot Development` · `AI Research & Development`
 
 **AI Tools:**  
 `ChatGPT` · `Claude / Claude Code` · `Hugging Face` · `Kaggle` · `Google Colab`
 
-### 🚀 Featured AI Projects
+###  Featured AI Projects
 
-#### 📰 Turkish Fake News Detection
+####  Turkish Fake News Detection
 BERTurk-based NLP system for detecting fake Turkish news using transformer-based text classification and model evaluation.
 
 **Focus:** `Python` · `BERTurk` · `NLP` · `Machine Learning` · `Hugging Face`
 
-#### 🤖 AI-Powered Web API
+####  AI-Powered Web API
 ASP.NET Core Web API integrating an LLM-powered chatbot with JWT authentication, role-based authorization, Linux-hosted LLM integration, and SQLite data storage.
 
 **Focus:** `C#` · `ASP.NET Core` · `REST API` · `JWT` · `LLM` · `SQLite`
