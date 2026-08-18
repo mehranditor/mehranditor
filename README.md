@@ -85,7 +85,7 @@
 
 I'm particularly interested in **Natural Language Processing, Transformer Models, Generative AI, and AI-powered software applications**.
 
-###  Machine Learning & NLP
+###  Machine Learning Frameworks and tools
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
