@@ -92,29 +92,62 @@ I'm particularly interested in **Natural Language Processing, Transformer Models
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 
+##  AI & Machine Learning
+
+###  Machine Learning & NLP
+
 **Areas:**  
-`Supervised Learning` · `Classification` · `Data Preprocessing` · `Model Evaluation` · `NLP` · `Transformer Models` · `BERT / BERTurk`
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-8B5CF6?style=flat-square&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-6366F1?style=flat-square&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-6366F1?style=flat-square&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6366F1?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-06B6D4?style=flat-square&logoColor=white)
+![Transformer Models](https://img.shields.io/badge/Transformer_Models-06B6D4?style=flat-square&logoColor=white)
+![BERT / BERTurk](https://img.shields.io/badge/BERT_%2F_BERTurk-06B6D4?style=flat-square&logoColor=white)
 
 ###  Generative AI & LLMs
-`LLM Integration` · `Prompt Engineering` · `AI-Assisted Software Development` · `Chatbot Development` · `AI Research & Development`
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-8B5CF6?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square&logoColor=white)
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-6366F1?style=flat-square&logoColor=white)
+![Chatbot Development](https://img.shields.io/badge/Chatbot_Development-6366F1?style=flat-square&logoColor=white)
+![AI R&D](https://img.shields.io/badge/AI_R%26D-06B6D4?style=flat-square&logoColor=white)
 
 **AI Tools:**  
-`ChatGPT` · `Claude / Claude Code` · `Hugging Face` · `Kaggle` · `Google Colab`
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ###  Featured AI Projects
 
 ####  Turkish Fake News Detection
+
 BERTurk-based NLP system for detecting fake Turkish news using transformer-based text classification and model evaluation.
 
-**Focus:** `Python` · `BERTurk` · `NLP` · `Machine Learning` · `Hugging Face`
+**Focus:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BERTurk](https://img.shields.io/badge/BERTurk-06B6D4?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ####  AI-Powered Web API
+
 ASP.NET Core Web API integrating an LLM-powered chatbot with JWT authentication, role-based authorization, Linux-hosted LLM integration, and SQLite data storage.
 
-**Focus:** `C#` · `ASP.NET Core` · `REST API` · `JWT` · `LLM` · `SQLite`
+**Focus:**  
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-06B6D4?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6366F1?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mehranditor&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mehranditor&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehranditor&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
