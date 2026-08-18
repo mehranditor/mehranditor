@@ -82,6 +82,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230A0FFF.svg?style=flat-square&logo=Trello&logoColor=white)
 
 ###  Development Platforms
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white)
