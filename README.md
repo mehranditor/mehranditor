@@ -81,7 +81,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 
-#  AI & Machine Learning
+
 
 I'm particularly interested in **Natural Language Processing, Transformer Models, Generative AI, and AI-powered software applications**.
 
