@@ -38,6 +38,13 @@
 🎻 Violinist · 🎮 Gamer · 🥋 Martial Arts · 💡 Technology Enthusiast
 
 
+<p align="center">
+  <img src="386741.jpg" width="31%">
+  <img src="anime1.jpg" width="31%">
+  <img src="anime2.jpg" width="31%">
+</p>
+
+
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirali-daneshvar-20560a217/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/yourusername](https://www.instagram.com/mehranditor02?igsh=MWxocnl6emU2dHlkeQ==))
