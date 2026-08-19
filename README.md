@@ -15,11 +15,20 @@
 👨‍💻 Computer Engineering graduate passionate about software development, AI, and creative technology. Experienced with ASP.NET Core, Java, Python, SQL, REST APIs, automation, and AI/LLM-powered applications. I enjoy turning ideas into practical projects, learning new technologies, and solving problems creatively. <br>
 
 
-## 🌍 Languages
+<h2 align="center">🌍 Languages</h2>
 
-| 🇬🇧 **English** | 🇹🇷 **Turkish** | 🇮🇷 **Persian** |
-|:---:|:---:|:---:|
-| Professional | Fluent | Native |
+<table align="center">
+  <tr>
+    <th>🇬🇧 English</th>
+    <th>🇹🇷 Turkish</th>
+    <th>🇮🇷 Persian</th>
+  </tr>
+  <tr>
+    <td align="center">Professional</td>
+    <td align="center">Fluent</td>
+    <td align="center">Native</td>
+  </tr>
+</table>
 
 
 ##  What I Do
