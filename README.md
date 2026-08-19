@@ -42,17 +42,9 @@
 
 
 
-<h2 align="center"> Beyond Code</h2>
+## Beyond Code 
 
-<p align="center">
-  🎻 <strong>Violinist</strong>
-  &nbsp;·&nbsp;
-  🎮 <strong>Gamer</strong>
-  &nbsp;·&nbsp;
-  🥋 <strong>Martial Arts</strong>
-  &nbsp;·&nbsp;
-  💡 <strong>Technology Enthusiast</strong>
-</p>
+🎻 Violinist · 🎮 Gamer · 🥋 Martial Arts · 💡 Technology Enthusiast
 <br>
 
 
