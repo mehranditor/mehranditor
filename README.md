@@ -169,5 +169,5 @@ ASP.NET Core Web API integrating an LLM-powered chatbot with JWT authentication,
 
 
 ## 📈 Activity
-
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehranditor&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
