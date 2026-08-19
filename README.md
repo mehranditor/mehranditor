@@ -17,9 +17,9 @@
 
 ## 🌍 Languages
 
-🇬🇧 **English** — Professional  
-🇹🇷 **Turkish** — Fluent  
-🇮🇷 **Persian** — Native
+| 🇬🇧 **English** | 🇹🇷 **Turkish** | 🇮🇷 **Persian** |
+|:---:|:---:|:---:|
+| Professional | Fluent | Native |
 
 
 ##  What I Do
