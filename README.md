@@ -31,14 +31,16 @@
 </table>
 
 
-##  What I Do
+## 🛠️ What I Do
 
 -  **Software Development** — Building practical applications and turning ideas into working solutions.
--  **AI & Machine Learning** — Exploring AI, machine learning, NLP, and intelligent applications.
--  **Web & Application Development** — Developing web, backend, and cross-platform applications.
--  **Problem Solving** — Breaking down complex problems and finding creative, practical solutions.
--  **Research & Experimentation** — Exploring new technologies, experimenting with ideas, and continuously learning.
--  **Project Development** — Taking projects from an idea to implementation while learning along the way.
+-  **AI & Machine Learning** — Exploring AI, NLP, machine learning, and intelligent applications.
+-  **Web & Application Development** — Creating web, backend, and cross-platform applications.
+-  **Backend & APIs** — Designing APIs, services, integrations, and application logic.
+-  **Developer Tools** — Building tools that help developers understand, analyze, and work with software.
+-  **Problem Solving** — Breaking complex problems into smaller, practical, and solvable pieces.
+-  **Research & Experimentation** — Exploring technologies, testing ideas, and learning through experimentation.
+-  **Project Development** — Taking ideas from concept to implementation and learning along the way.
 
 
 
